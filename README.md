@@ -29,18 +29,18 @@ PhD in Theoretical Physics. Co-founder of **[Vortico](https://vortico.tech)**. C
       <sub>co-creator</sub>
     </td>
     <td align="center" width="200" valign="bottom">
-      <a href="https://github.com/migduroli/pineurodes">
-        <img src="https://img.shields.io/badge/🧠-4B0082?style=flat-square" height="65" alt="PINEURODEs"/><br>
-        <sub><b>pineurodes</b></sub>
+      <a href="https://github.com/migduroli/social-and-web-analytics">
+        <img src="https://img.shields.io/badge/📊-4B0082?style=flat-square" height="65" alt="Social & Web Analytics"/><br>
+        <sub><b>social-and-web-analytics</b></sub>
       </a><br>
       <sub>creator</sub>
     </td>
     <td align="center" width="200" valign="bottom">
-      <a href="https://github.com/migduroli/topology-book">
-        <img src="https://img.shields.io/badge/📐-2E4057?style=flat-square" height="65" alt="Topology Book"/><br>
-        <sub><b>topology-book</b></sub>
+      <a href="https://github.com/migduroli/classicalDFT">
+        <img src="https://img.shields.io/badge/⚛️-2E4057?style=flat-square" height="65" alt="classicalDFT"/><br>
+        <sub><b>classicalDFT</b></sub>
       </a><br>
-      <sub>author</sub>
+      <sub>contributor</sub>
     </td>
     <td align="center" width="200" valign="bottom">
       <a href="https://github.com/migduroli/covid-uk-variant">
@@ -75,8 +75,8 @@ PhD in Theoretical Physics. Co-founder of **[Vortico](https://vortico.tech)**. C
 >>> pprint(open_source)
 {
     "vortico/flama": "co-creator — production framework for predictive & generative AI",
-    "pineurodes": "neural ODEs/SDEs for complex multiscale systems",
-    "topology-book": "open-access book on topology (LaTeX)",
+    "social-and-web-analytics": "course on social media and web analytics",
+    "classicalDFT": "classical density functional theory (C++)",
     "covid-uk-variant": "epidemiological modelling of CoVid-19 variants",
 }
 ```
