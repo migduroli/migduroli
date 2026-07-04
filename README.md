@@ -29,9 +29,16 @@ PhD in Theoretical Physics. Co-founder of **[Vortico](https://vortico.tech)**. C
       <sub>co-creator</sub>
     </td>
     <td align="center" width="200" valign="bottom">
-      <a href="https://github.com/migduroli/social-and-web-analytics">
-        <img src="https://img.shields.io/badge/📊-4B0082?style=flat-square" height="65" alt="Social & Web Analytics"/><br>
-        <sub><b>social-and-web-analytics</b></sub>
+      <a href="https://github.com/vortico/mlops-course">
+        <img src="https://img.shields.io/badge/⚙️-4B0082?style=flat-square" height="65" alt="MLOps Course"/><br>
+        <sub><b>mlops-course</b></sub>
+      </a><br>
+      <sub>creator</sub>
+    </td>
+    <td align="center" width="200" valign="bottom">
+      <a href="https://github.com/vortico/ml4ts-course">
+        <img src="https://img.shields.io/badge/📈-0D47A1?style=flat-square" height="65" alt="ML4TS Course"/><br>
+        <sub><b>ml4ts-course</b></sub>
       </a><br>
       <sub>creator</sub>
     </td>
@@ -75,7 +82,8 @@ PhD in Theoretical Physics. Co-founder of **[Vortico](https://vortico.tech)**. C
 >>> pprint(open_source)
 {
     "vortico/flama": "co-creator — production framework for predictive & generative AI",
-    "social-and-web-analytics": "course on social media and web analytics",
+    "vortico/mlops-course": "course on MLOps — from notebooks to production ML systems",
+    "vortico/ml4ts-course": "course on ML for time series — analysis, forecasting & classification",
     "classicalDFT": "classical density functional theory (C++)",
     "prenucleation": "multistep nucleation & non-classical culprit",
 }
@@ -87,10 +95,40 @@ PhD in Theoretical Physics. Co-founder of **[Vortico](https://vortico.tech)**. C
 
 **Selected publications:**
 
-<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=WyjS6WsAAAAJ&sortby=pubdate&citation_for_view=WyjS6WsAAAAJ:LhH-TYMQEocC"><img src="https://img.shields.io/badge/The_emergence_of_socio--economic_structure-1a1a2e?style=flat-square&logo=bookstack&logoColor=white" alt="Socio-economic structure"></a>
-<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=WyjS6WsAAAAJ&sortby=pubdate&citation_for_view=WyjS6WsAAAAJ:yMeIxYmEMEAC"><img src="https://img.shields.io/badge/Forecasting_with_N--dim_Langevin_+_Neural--ODE-1a1a2e?style=flat-square&logo=bookstack&logoColor=white" alt="Langevin + Neural-ODE"></a>
-<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=WyjS6WsAAAAJ&sortby=pubdate&citation_for_view=WyjS6WsAAAAJ:yFnVuubrUp4C"><img src="https://img.shields.io/badge/ML_memory_kernels_for_non--Markovian_processes-1a1a2e?style=flat-square&logo=bookstack&logoColor=white" alt="ML memory kernels"></a>
-<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=WyjS6WsAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=WyjS6WsAAAAJ:mlAyqtXpCwEC"><img src="https://img.shields.io/badge/General_framework_for_nonclassical_nucleation-1a1a2e?style=flat-square&logo=bookstack&logoColor=white" alt="Nonclassical nucleation"></a>
+<table>
+  <tr>
+    <td align="center" width="320">
+      <a href="https://doi.org/10.1088/1742-5468/ae5c8d"><img src="https://img.shields.io/badge/The_emergence_of_socio--economic_structure-1a1a2e?style=flat-square&logo=bookstack&logoColor=white" alt="Socio-economic structure"></a>
+    </td>
+    <td>
+      M.A. Durán-Olivencia, <i>J. Stat. Mech.</i> (2026), 043205. <a href="https://doi.org/10.1088/1742-5468/ae5c8d">doi:10.1088/1742-5468/ae5c8d</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="320">
+      <a href="https://doi.org/10.1063/5.0189402"><img src="https://img.shields.io/badge/Forecasting_with_N--dim_Langevin_+_Neural--ODE-1a1a2e?style=flat-square&logo=bookstack&logoColor=white" alt="Langevin + Neural-ODE"></a>
+    </td>
+    <td>
+      A. Malpica-Morales, M.A. Durán-Olivencia, S. Kalliadasis, <i>Chaos</i> <b>34</b>(4), 043105 (2024). <a href="https://doi.org/10.1063/5.0189402">doi:10.1063/5.0189402</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="320">
+      <a href="https://doi.org/10.1109/TNNLS.2022.3210695"><img src="https://img.shields.io/badge/ML_memory_kernels_for_non--Markovian_processes-1a1a2e?style=flat-square&logo=bookstack&logoColor=white" alt="ML memory kernels"></a>
+    </td>
+    <td>
+      A. Russo, M.A. Durán-Olivencia, I.G. Kevrekidis, S. Kalliadasis, <i>IEEE Trans. Neural Netw. Learn. Syst.</i> <b>35</b>(5), 6531–6543 (2024). <a href="https://doi.org/10.1109/TNNLS.2022.3210695">doi:10.1109/TNNLS.2022.3210695</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="320">
+      <a href="https://doi.org/10.1088/1367-2630/aad170"><img src="https://img.shields.io/badge/General_framework_for_nonclassical_nucleation-1a1a2e?style=flat-square&logo=bookstack&logoColor=white" alt="Nonclassical nucleation"></a>
+    </td>
+    <td>
+      M.A. Durán-Olivencia, P. Yatsyshin, S. Kalliadasis, J. Lutsko, <i>New J. Phys.</i> <b>20</b>, 083019 (2018). <a href="https://doi.org/10.1088/1367-2630/aad170">doi:10.1088/1367-2630/aad170</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
