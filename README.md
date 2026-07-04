@@ -43,9 +43,9 @@ PhD in Theoretical Physics. Co-founder of **[Vortico](https://vortico.tech)**. C
       <sub>contributor</sub>
     </td>
     <td align="center" width="200" valign="bottom">
-      <a href="https://github.com/migduroli/covid-uk-variant">
-        <img src="https://img.shields.io/badge/🦠-1B5E20?style=flat-square" height="65" alt="COVID UK"/><br>
-        <sub><b>covid-uk-variant</b></sub>
+      <a href="https://github.com/migduroli/prenucleation">
+        <img src="https://img.shields.io/badge/🔬-1B5E20?style=flat-square" height="65" alt="Prenucleation"/><br>
+        <sub><b>prenucleation</b></sub>
       </a><br>
       <sub>researcher</sub>
     </td>
@@ -77,7 +77,7 @@ PhD in Theoretical Physics. Co-founder of **[Vortico](https://vortico.tech)**. C
     "vortico/flama": "co-creator — production framework for predictive & generative AI",
     "social-and-web-analytics": "course on social media and web analytics",
     "classicalDFT": "classical density functional theory (C++)",
-    "covid-uk-variant": "epidemiological modelling of CoVid-19 variants",
+    "prenucleation": "multistep nucleation & non-classical culprit",
 }
 ```
 
